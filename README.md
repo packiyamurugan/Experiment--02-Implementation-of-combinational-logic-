@@ -1,3 +1,9 @@
+## Name:packiya murugan R
+
+
+## Register Number:212223050034
+
+
 # Experiment--02-Implementation-of-combinational-logic
 Implementation of combinational logic gates
  
